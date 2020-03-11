@@ -1,0 +1,3 @@
+Software implementing a new method of assigning numerical scores to
+participants subject to a series of pairwise comparisons.  Contains routines
+for simulating pairwise contests and compare different ranking methods.
