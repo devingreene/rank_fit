@@ -1,7 +1,7 @@
 from setuptools import setup,find_packages
 
 setup(
-        name = "rank_fit-devin",
+        name = "rank_fit",
         version="0.0.1",
         author="Devin Greene",
         author_email="devin@greene.cz",
